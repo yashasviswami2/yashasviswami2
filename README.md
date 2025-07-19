@@ -1,10 +1,16 @@
-# Hi 👋, I'm Yashasvi Swami
+# Hi 👋, I'm Yashasvi Swami 
+
+<img width="796" height="796" alt="studying (2)" src="https://github.com/user-attachments/assets/dc4d8e96-73a5-4f1e-a4a4-33a1b51b16be" />
+
+
+
 
 🚀 Aspiring Software Engineer from *India*  
 📚 Currently focused on mastering *Data Structures & Algorithms* using *Python*  
 🌐 Learning *Web Development* to build interactive and responsive websites  
 💡 I have also worked with *C, **C++, and **Java*  
 🎯 Passionate about learning, building, and solving real-world problems
+
 
 ---
 
