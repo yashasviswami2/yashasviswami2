@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yashasvi Swami 
+I am Yashasvi Swami    
 
 🚀 Aspiring Software Engineer from *India*  
 📚 Currently focused on mastering *Data Structures & Algorithms* using *Python*  
