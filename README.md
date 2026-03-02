@@ -1,5 +1,7 @@
 # Yashasvi Swami
 
+![Profile Views](https://komarev.com/ghpvc/?username=yashasviswami2&color=blue)
+
 🎓 B.Tech Computer Science (2nd Year)  
 🤖 Aspiring Generative AI Engineer  
 
@@ -11,7 +13,7 @@ I am a Computer Science undergraduate focused on building strong foundations in 
 
 My current interest lies in Generative AI, large language models, and understanding how intelligent systems are designed and scaled.
 
-I believe in mastering core computer science principles first, and then applying them to build meaningful AI-driven solutions.
+I believe in mastering core computer science principles first and then applying them to build meaningful AI-driven solutions.
 
 ---
 
