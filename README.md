@@ -1,52 +1,49 @@
-# Hi, I'm Yashasvi Swami 👋  
+# Yashasvi Swami
 
 🎓 B.Tech Computer Science (2nd Year)  
 🤖 Aspiring Generative AI Engineer  
-📍 India  
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I am a Computer Science undergraduate building strong foundations in programming while actively exploring the field of Generative AI and intelligent systems.
+I am a Computer Science undergraduate focused on building strong foundations in programming, problem solving, and intelligent systems.
 
-Currently focused on:
-- Generative AI concepts  
-- Large Language Models (LLMs)  
-- Python for AI development  
-- Core Computer Science fundamentals  
+My current interest lies in Generative AI, large language models, and understanding how intelligent systems are designed and scaled.
 
-I believe in mastering fundamentals first and then building intelligent systems on top of them.
+I believe in mastering core computer science principles first, and then applying them to build meaningful AI-driven solutions.
 
 ---
 
-## 💻 Programming Languages
+## Technical Skills
 
-- C  
-- C++  
-- Java  
-- Python  
-- SQL  
-- HTML  
-- CSS  
+**Programming**
+- Python
+- Java
+- C
+- C++
+- SQL
+- HTML
+- CSS
 
----
-
-## 🌍 Languages I Speak
-
-| Language | Proficiency |
-|----------|-------------|
-| Hindi    | Native |
-| English  | Fluent |
-| Japanese | Learning |
+**Core Areas**
+- Data Structures & Algorithms
+- Relational Database Design
+- Object-Oriented Programming
+- SQL JOIN & Aggregation Queries
+- Foundational AI Concepts
 
 ---
 
-## 📊 Skill Distribution
+## Current Focus
+
+- Exploring Generative AI and LLM architectures  
+- Strengthening Python for AI development  
+- Deepening understanding of system fundamentals  
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashasviswami2&show_icons=true&theme=tokyonight)
 
@@ -54,16 +51,10 @@ I believe in mastering fundamentals first and then building intelligent systems 
 
 ---
 
-## 👀 Profile Views
+## Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashasviswami2&color=blue)
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/yashasvis150221/
+LinkedIn: https://www.linkedin.com/in/yashasvis150221/
 
 ---
 
-> “Focused on building the future with Generative AI.”
+> Engineering intelligence by mastering fundamentals.
