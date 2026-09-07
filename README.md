@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashasviswami2&color=blue)
 
-🎓 B.Tech Computer Science (2nd Year)  
+🎓 B.Tech Computer Science - PreFinal Year
 🤖 Aspiring Generative AI Engineer  
 
 ---
