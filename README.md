@@ -60,3 +60,16 @@ LinkedIn: https://www.linkedin.com/in/yashasvis150221/
 ---
 
 > Engineering intelligence by mastering fundamentals.
+
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 **Portfolio:** [yashasvi-swami-portfolio.netlify.app](https://yashasvi-swami-portfolio.netlify.app)
+- 💼 **LinkedIn:** [linkedin.com/in/yashasvis150221](https://www.linkedin.com/in/yashasvis150221)
+- 🐙 **GitHub:** [github.com/yashasviswami2](https://github.com/yashasviswami2)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
